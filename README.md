@@ -1,3 +1,7 @@
+![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+![Kotlin](https://img.shields.io/badge/Kotlin-1.9-blue)
+![Android](https://img.shields.io/badge/Android-Studio-green)
+
 # 📅 Business Calendar (Android)
 
 A modern, easy-to-use **business productivity calendar app** built with **Kotlin**.  
