@@ -1,1 +1,2 @@
 2025-09-13: Worked on Android Studio (learning Kotlin)
+2025-09-15: Worked on Android Studio (learning Kotlin day 2)
